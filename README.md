@@ -1,9 +1,8 @@
 <!--Apresentação -->
-<h1>- 👋 Hi, I’m keillon</h1>
-<p>- 👀 I’m interested in learning more about how to become a better professional in the field</p>
-<p>- 🌱 I’m currently learning about HTML and CSS</p>
-<p>- 👨‍💻 I'm looking to collaborate in projects about HTMl and CSS</p>
-<p>- 💞️ I love programming in general, I like games, peripherals, technologies, and everything that involves the future!</p>
+<h1>Olá, me chamo keillon silva.</h1>
+<p>Estou atualmente estudando HTML5, css e partindo pro JavaScript.</p>
+<p>Aqui estão alguns projetos meus, tanto do curso, quanto pessoais</p>
+<p>Se quiser ver mais do que faço, acesse meu Portfólio!</p>
 
 <!--Stacks-->
 <div style="display: inline_block"><br>
@@ -12,3 +11,5 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br></br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keillon&show_icons=true&theme=radical)
