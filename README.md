@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E61E2A&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E61E2A&height=120&section=header"/>
 <!--Apresentação -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E61E2A&size=35&center=false&vCenter=false&width=1000&lines=Hello+World!+My+name+is+keillon+silva+;I'm+a+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 - <p>Estou atualmente estudando JavaScript e React JS.</p>
