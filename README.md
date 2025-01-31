@@ -1,6 +1,6 @@
 <!--Apresentação -->
 <h1>Olá, me chamo keillon silva.</h1>
-<p>Estou atualmente estudando HTML5, CSS e JavaScript.</p>
+<p>Estou atualmente estudando JavaScript e React JS.</p>
 <p>Aqui estão alguns projetos meus, tanto do curso, quanto pessoais</p>
 <p>Se quiser ver mais do que faço, acesse meu Portfólio!</p>
 
@@ -17,6 +17,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/reaactjs/react-original.svg](https://camo.githubusercontent.com/3467eb8e0dc6bdaa8fa6e979185d371ab39c105ec7bd6a01048806b74378d24c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)">
 </div>
 
 <hr>
