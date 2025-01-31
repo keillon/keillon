@@ -13,14 +13,12 @@
 
 <hr>
 <!--Stacks-->
-<div style="display: inline_block"><br>
-  <div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: column;"><br>
     <p>### Skills</p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,scss"></img>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,scss"></img>
   
-  <p>### Tools</p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"></img>
-</div>
+    <p>### Tools</p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"></img>
 </div>
 
 <hr>
