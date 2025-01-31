@@ -14,9 +14,11 @@
 <hr>
 <!--Stacks-->
 <div style="display: inline_block"><br>
-  ### Skills
+  <div style="display: flex; flex-direction: column;">
+    <p>### Skills</p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,scss"></img>
-  ### Tools
+  </div>
+  <p>### Tools</p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"></img>
 </div>
 
