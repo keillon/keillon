@@ -28,7 +28,7 @@
 <hr>
 
 <div align="center">
-  <img height="200" autoplay src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif"  />
+  <img height="200" autoplay="true" src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif"  />
 </div>
 
 <hr>
