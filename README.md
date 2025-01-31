@@ -17,9 +17,10 @@
   <div style="display: flex; flex-direction: column;">
     <p>### Skills</p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,scss"></img>
-  </div>
+  
   <p>### Tools</p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"></img>
+</div>
 </div>
 
 <hr>
