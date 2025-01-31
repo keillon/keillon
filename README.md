@@ -15,9 +15,9 @@
 <!--Stacks-->
 <div style="display: inline_block"><br>
   ### Skills
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap, sass"></img>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,scss"></img>
   ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"></img>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"></img>
 </div>
 
 <hr>
