@@ -40,7 +40,6 @@
 <hr>
 
 <div align="center">
-  <img height="200"  src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif"  />
   <video src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif" autoplay></video>
 </div>
 
