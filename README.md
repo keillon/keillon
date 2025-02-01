@@ -6,13 +6,6 @@
 - 🔭 Estou atualmente estudando JavaScript e React JS.
 - ▶️ Aqui estão alguns projetos meus, tanto do curso, quanto pessoais
 - 🔥 Se quiser ver mais do que faço, acesse meu Portfólio!
-
-<hr>
-<!--Stats-->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keillon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 <hr>
 <!--Stacks-->
 <div style="display: inline_block"><br>
@@ -37,6 +30,11 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=keillon&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="keillon silva github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keillon&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<!--Stats-->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keillon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <hr>
