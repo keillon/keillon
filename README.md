@@ -3,10 +3,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=false&vCenter=false&width=1000&lines=Hello+World!+My+name+is+keillon+silva+;I'm+a+Software+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
+<div style="display: flex; align-items: center; justify-content: center;">
 - 👨‍💻<h4>Meu nome é keillon silva.</p>
--🔭 <h4>Estou atualmente estudando JavaScript e React JS.</p>
--   <h4>Aqui estão alguns projetos meus, tanto do curso, quanto pessoais</p>
-- 🔥 <h4>Se quiser ver mais do que faço, acesse meu Portfólio!</h4>
+- 🔭<h4>Estou atualmente estudando JavaScript e React JS.</p>
+- ▶️ <h4>Aqui estão alguns projetos meus, tanto do curso, quanto pessoais</p>
+- 🔥<h4>Se quiser ver mais do que faço, acesse meu Portfólio!</h4>
+
+</div>
+
 
 <hr>
 <!--Stats-->
@@ -20,9 +25,10 @@
   <div style="display: flex; flex-direction: column;">
     <h3>### Skills</h3>
       <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,scss"></img>
-<br>
-<h3>### Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"></img>
+</br>
+
+  <h3>### Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"></img>
 </div>
 </div>
 
