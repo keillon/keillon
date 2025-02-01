@@ -28,7 +28,7 @@
 <hr>
 
 <div width="100%" align="center">
-  <a align="center" href="https://github.com/andredavedovicz/api-auth-jwt" title="api-auth-jwt">
+  <a align="center" href="https://github.com/andredavedovicz/api-auth-jwt" title="aaa">
     <img align="center" height="115" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=andredavedovicz&repo=api-auth-jwt&theme=vision-friendly-dark&icon_color=E61E2A&&border_color=E61E2A&bg_color=00000000&border_radius=10&color=54E2F5">
   </a>
   <a align="center" href="https://github.com/andredavedovicz/api-auth-jwt" title="api-auth-jwt">
