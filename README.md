@@ -5,10 +5,10 @@
 
 
 <div style="display: flex; align-items: center; justify-content: center;">
-- 👨‍💻<h4>Meu nome é keillon silva.</p>
-- 🔭<h4>Estou atualmente estudando JavaScript e React JS.</p>
-- ▶️ <h4>Aqui estão alguns projetos meus, tanto do curso, quanto pessoais</p>
-- 🔥<h4>Se quiser ver mais do que faço, acesse meu Portfólio!</h4>
+- 👨‍💻<p>Meu nome é keillon silva.</p>
+- 🔭<p>Estou atualmente estudando JavaScript e React JS.</p>
+- ▶️<p>Aqui estão alguns projetos meus, tanto do curso, quanto pessoais</p>
+- 🔥<p>Se quiser ver mais do que faço, acesse meu Portfólio!</h4>
 
 </div>
 
