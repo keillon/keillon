@@ -21,9 +21,9 @@
     <p>### Skills</p>
       <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,scss"></img>
 
-      <br>
+<br>
 
-    <p>### Tools</p>
+  <p>### Tools</p>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"></img>
 </div>
 </div>
