@@ -13,10 +13,10 @@
 <div style="display: inline_block">
   <div style="display: flex; flex-direction: column;">
     <h3>### Skills</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,scss"></img>
+      <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,bootstrap"></img>
 </br>
   <h3>### Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"></img>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,tailwind,git"></img>
 </div>
 </div>
 <!--Stacks-->
