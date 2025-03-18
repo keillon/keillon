@@ -16,7 +16,7 @@
       <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,bootstrap"></img>
 </br>
   <h3>### Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,tailwind,git"></img>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,tailwind"></img>
 </div>
 </div>
 <!--Stacks-->
