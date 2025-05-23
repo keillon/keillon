@@ -13,7 +13,7 @@
 <div style="display: inline_block">
   <div style="display: flex; flex-direction: column;">
     <h3>### Skills</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,bootstrap,nodejs,typescript,docker,mysql,mongodb"></img>
+      <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,bootstrap,nodejs,typescript,docker,mysql,mongodb&perline=3"></img>
 </br>
   <h3>### Tools</h3>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,tailwind"></img>
