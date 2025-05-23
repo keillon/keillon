@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=false&vCenter=false&width=1000&lines=Hello+World!+My+name+is+keillon+silva+;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 - 👨‍💻 Meu nome é keillon silva.
-- 🔭 Estou atualmente estudando JavaScript e React JS.
+- 🔭 Atualmente sou Desenvolvedor Fullstack Júnior como PJ.
 - ▶️ Aqui estão alguns projetos meus, tanto do curso, quanto pessoais.
 - 🔥 Se quiser ver mais do que faço, acesse meu Portfólio!
 - 🎮 nas horas vagas curto jogar alguns games.
@@ -13,7 +13,7 @@
 <div style="display: inline_block">
   <div style="display: flex; flex-direction: column;">
     <h3>### Skills</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,bootstrap"></img>
+      <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,bootstrap,nodejs,typescript,docker,mysql,mongodb"></img>
 </br>
   <h3>### Tools</h3>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,tailwind"></img>
