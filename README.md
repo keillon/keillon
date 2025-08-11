@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=false&vCenter=false&width=1000&lines=Hello+World!+My+name+is+keillon+silva+;I'm+a+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 - 👨‍💻 Meu nome é keillon silva.
-- 🔭 Atualmente sou Desenvolvedor Fullstack Júnior como PJ.
+- 🔭 Atualmente sou Desenvolvedor Fullstack Pleno PJ.
 - ▶️ Aqui estão alguns projetos meus, tanto do curso, quanto pessoais.
 - 🔥 Se quiser ver mais do que faço, acesse meu Portfólio!
 - 🎮 nas horas vagas curto jogar alguns games.
