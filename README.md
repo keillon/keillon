@@ -25,15 +25,7 @@
 </div>
 <!--gif-->
 
-
 <hr>
-
-<!--visitors-->
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{keillon}/count.svg" /></p> 
-<br></div>
-<!--visitors-->
 
 <!--footer-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E61E2A&height=120&section=footer"/>
